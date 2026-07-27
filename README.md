@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
