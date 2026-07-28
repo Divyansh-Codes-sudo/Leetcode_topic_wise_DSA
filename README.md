@@ -40,4 +40,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0785-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0785-is-graph-bipartite) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
