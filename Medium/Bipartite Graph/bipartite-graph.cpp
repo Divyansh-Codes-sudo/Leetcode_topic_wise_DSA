@@ -1,75 +1,73 @@
 class Solution {
-public:
-
-    // DFS function to color the graph.
-    // curr       -> Current node being visited.
-    // currcolor  -> Color to assign to the current node (0 or 1).
-    // color      -> Stores the assigned color of every node.
-    // adj        -> Adjacency list representation of the graph.
-    bool dfs(int curr, int currcolor, vector<int> &color, vector<vector<int>> &adj) {
-
-        // Assign the current color to the node.
-        color[curr] = currcolor;
-
-        // Visit all adjacent (neighboring) nodes.
-        for (int v : adj[curr]) {
-
-            // If the neighbor already has the same color as the
-            // current node, the graph cannot be bipartite.
-            if (currcolor == color[v])
-                return false;
-
-            // If the neighbor has not been colored yet,
-            // recursively color it with the opposite color.
-            if (color[v] == -1) {
-
-                // If any recursive call detects a conflict,
-                // immediately return false.
-                if (!dfs(v, 1 - currcolor, color, adj))
+  public:
+  
+    // BFS function to check if a connected component is bipartite
+    bool bfs(int u, vector<vector<int>> &adj, vector<int> &color) {
+        
+        // Queue stores {node, color}
+        queue<pair<int, int>> q;
+        
+        // Start BFS from source node with color 0
+        q.push({u, 0});
+        color[u] = 0;
+        
+        while (!q.empty()) {
+            
+            // Get current node and its color
+            auto p = q.front();
+            int u = p.first;
+            int col = p.second;
+            q.pop();
+            
+            // Traverse all neighbours
+            for (int v : adj[u]) {
+                
+                // If neighbour has same color as current node,
+                // graph cannot be bipartite
+                if (color[v] == col)
                     return false;
+                
+                // If neighbour is not colored yet
+                if (color[v] == -1) {
+                    
+                    // Assign opposite color
+                    color[v] = 1 - col;
+                    
+                    // Push neighbour into queue
+                    q.push({v, 1 - col});
+                }
             }
         }
-
-        // No coloring conflict was found in this DFS traversal.
+        
+        // No conflict found
         return true;
     }
-
+  
     bool isBipartite(int V, vector<vector<int>> &edges) {
-
-        // color[i] stores the color assigned to vertex i.
-        // -1 means the vertex has not been visited/colored yet.
+        
+        // Initially every vertex is uncolored
         vector<int> color(V, -1);
-
-        // Create an adjacency list for the graph.
+        
+        // Adjacency list
         vector<vector<int>> adj(V);
-
-        // Convert the edge list into an adjacency list.
-        // Since the graph is undirected, add both directions.
+        
+        // Build the graph
         for (auto vec : edges) {
             int u = vec[0];
             int v = vec[1];
-
+            
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
-
-        // The graph may have multiple disconnected components,
-        // so start DFS from every unvisited vertex.
+        
+        // Check every connected component
         for (int i = 0; i < V; i++) {
-
-            // If the current vertex has not been colored,
-            // begin a new DFS with color 0.
             if (color[i] == -1) {
-
-                // If this component cannot be colored using
-                // two colors, the graph is not bipartite.
-                if (!dfs(i, 0, color, adj))
+                if (!bfs(i, adj, color))
                     return false;
             }
         }
-
-        // Every connected component was successfully colored
-        // using only two colors, so the graph is bipartite.
+        
         return true;
     }
 };
