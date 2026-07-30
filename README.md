@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0953-verifying-an-alien-dictionary](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Hash Table
+|  |
+| ------- |
+| [0953-verifying-an-alien-dictionary](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0953-verifying-an-alien-dictionary) |
 <!---LeetCode Topics End-->
