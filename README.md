@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0785-is-graph-bipartite) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
