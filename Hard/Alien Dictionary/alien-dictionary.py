@@ -28,8 +28,6 @@ class Solution:
                 if j >= len(w2):
                     return ""
 
-                # Ensure both characters are present in the map
-
                 # First differing characters determine the ordering
                 if w1[j] != w2[j]:
                     adj[w1[j]].append(w2[j])
