@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0953-verifying-an-alien-dictionary](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Depth-First Search
 |  |
@@ -64,8 +67,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0953-verifying-an-alien-dictionary](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0953-verifying-an-alien-dictionary) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
