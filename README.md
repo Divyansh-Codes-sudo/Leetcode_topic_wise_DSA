@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0877-stone-game) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
@@ -80,8 +82,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
