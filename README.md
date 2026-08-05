@@ -60,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3310-remove-methods-from-project) |
 ## Greedy
 |  |
 | ------- |
