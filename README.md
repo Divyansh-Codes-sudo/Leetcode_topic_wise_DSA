@@ -103,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
