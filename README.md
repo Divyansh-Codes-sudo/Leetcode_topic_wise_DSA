@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0953-verifying-an-alien-dictionary](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
