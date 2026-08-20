@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0877-stone-game) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0191-number-of-1-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
