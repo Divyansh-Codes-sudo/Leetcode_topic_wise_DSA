@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0001-two-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
