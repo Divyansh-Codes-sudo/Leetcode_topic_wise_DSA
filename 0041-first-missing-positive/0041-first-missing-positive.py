@@ -7,8 +7,10 @@ class Solution:
             if i not in mp:
                 return i
         
-        if max(nums) < 0: return 1
-        else : return max(nums)+1
+        x = max(nums)
+        
+        if x < 0: return 1
+        else : return x+1
         
 
         
