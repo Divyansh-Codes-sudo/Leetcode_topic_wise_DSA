@@ -1,8 +1,11 @@
 class Solution:
     def twoSum(self, nums, target):
-        seen = {}
+        mp = {}
 
-        for i, num in enumerate(nums):
-            if target - num in seen:
-                return [seen[target - num], i]
-            seen[num] = i
+        for i , val in enumerate(nums):
+            diff = target-val
+
+            if diff in mp: return [mp[diff] , i]
+        
+            mp[val] = i
+        return []
