@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0486-predict-the-winner) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0175-combine-two-tables](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0181-employees-earning-more-than-their-managers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
