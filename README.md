@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3718-smallest-missing-multiple-of-k](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1140-stone-game-ii](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [3903-smallest-stable-index-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
