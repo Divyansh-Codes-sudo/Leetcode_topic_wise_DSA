@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1590-make-sum-divisible-by-p](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -211,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divyansh-Codes-sudo/Leetcode_topic_wise_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
